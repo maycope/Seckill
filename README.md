@@ -43,3 +43,8 @@ Java秒杀系统方案优化与高性能并发实战
 #### Redis封装类学习
 
 [Redis封装类设计](https://blog.csdn.net/weixin_44015043/article/details/105892713)
+
+
+## miaosha_3
+
+对于miaosha_3部分的设计是关于秒杀页面的具体设计，设计到了多个表，可以查看**miaosha_3/db**,其中有具体字段的解释及表的介绍，结合**miaosha_3**进行初级的学习。具体可参看[秒杀页面设计](https://blog.csdn.net/weixin_44015043/article/details/105907535)其中有关键信息的讲解与介绍。
